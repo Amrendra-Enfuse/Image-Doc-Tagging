@@ -1,0 +1,23 @@
+.annotation {
+  width: 100% !important;
+  margin: auto !important;
+  margin-top: 10px;
+  overflow: hidden !important;
+  min-height: 700px;
+  min-height: 700px;
+}
+.annotation canvas.rp-image {
+    width: 100% !important;
+
+}
+/* .rp-stage canvas.rp-shapes {
+  width: 100% !important;
+  height: 75vh !important;
+}
+.rp-stage canvas.rp-image {
+  width: 100% !important;
+  height: 75vh !important;
+} */
+
+
+
